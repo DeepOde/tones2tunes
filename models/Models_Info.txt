@@ -1,1 +1,1 @@
-# This folder contains info about models
+# This folder contains info about models. 
